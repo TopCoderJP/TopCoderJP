@@ -11,7 +11,8 @@ Hi there, I'm Sasha👋
 
 
 
-### [Certifications - PDF](https://github.com/TopCoderJP/PDF-/blob/main/Academic%20Transcript.pdf)
+### [Certifications - PDF](https://github.com/TopCoderJP/PDF-/blob/main/Academic%20Transcript.pdf)  
+### [資格 - PDF](https://github.com/TopCoderJP/PDF-/blob/main/Sasha%20Taylor%20-%20JP%20-%20Academic%20Transcript%20Jan%202025.pdf)
 
   
 
