@@ -11,9 +11,9 @@ Hi there, I'm Sasha👋
 
 
 
-Certifications - Transcript
--------------
   ### [Certifications](https://github.com/TopCoderJP/PDF-/blob/main/Academic%20Transcript.pdf)
+
+  
 
 Let's connect
 -------------
