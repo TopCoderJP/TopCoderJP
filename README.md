@@ -1,4 +1,4 @@
-- 👋 こんにちは、GCP および AWS 認定のクラウド ソリューション アーキテクトの @TopCoderJP です
+- 👋 こんにちは、AWS および GCP 認定のクラウド ソリューション アーキテクトの @TopCoderJP です
 - 🌱 日本に拠点を置き、機械学習エンジニア、セキュリティ エンジニア、クラウド エンジニアとして GCP の認定を取得しています
 - 👀 ReactNative および ReactJS アプリをいくつか構築しました (ほとんどがフロントエンドで、バックエンドとブロックチェーン スマート コントラクトを使用したものもあります)。
 - 💞️ AWS と GCP の機械学習/AI プロジェクトで協力したいと考えています。将来的には Azure も検討しています
@@ -9,7 +9,7 @@
 
 
 
-- 👋 Hi, I’m @TopCoderJP a GCP & AWS certified Cloud Solutions Architect
+- 👋 Hi, I’m @TopCoderJP a AWS & GCP certified Cloud Solutions Architect
 - 🌱 Im based in Japan and have certifications in GCP as a Machine Learning Engineer, Security Engineer and Cloud Engineer
 - 👀 I built out several ReactNative and ReactJS apps ( mostly frontend and some with backend and blockchain smart contracts)
 - 💞️ I’m looking to collaborate on Machine Learning/ AI Projects in AWS and GCP, maybe Azure in the future
