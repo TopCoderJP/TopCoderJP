@@ -8,7 +8,12 @@ Hi there, I'm Sasha👋
   - built out ReactJS and ReactNative apps, mostly frontend, some full-stack apps
   - experimented with blockchain smart-contracts and startups
   - certified GCP Machine Learning Engineer, GCP Security Engineer and eyeing Azure
-  
+
+
+
+Certifications - Transcript
+-------------
+  ### [Certifications](https://github.com/TopCoderJP/PDF-/blob/main/Academic%20Transcript.pdf)
 
 Let's connect
 -------------
