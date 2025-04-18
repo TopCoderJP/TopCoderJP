@@ -11,7 +11,7 @@ Hi there, I'm Sasha👋
 
 
 
-  ### [ Certifications - Transcript ](https://github.com/TopCoderJP/PDF-/blob/main/Academic%20Transcript.pdf)
+### [Certifications - PDF](https://github.com/TopCoderJP/PDF-/blob/main/Academic%20Transcript.pdf)
 
   
 
