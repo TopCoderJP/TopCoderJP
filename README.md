@@ -1,19 +1,37 @@
-- 👋 こんにちは、AWS および GCP 認定のクラウド ソリューション アーキテクトの @TopCoderJP です
-- 🌱 日本に拠点を置き、機械学習エンジニア、セキュリティ エンジニア、クラウド エンジニアとして GCP の認定を取得しています
-- 👀 ReactNative および ReactJS アプリをいくつか構築しました (ほとんどがフロントエンドで、バックエンドとブロックチェーン スマート コントラクトを使用したものもあります)。
-- 💞️ AWS と GCP の機械学習/AI プロジェクトで協力したいと考えています。将来的には Azure も検討しています
-- ⚡ 豆知識: オーストラリアの AHPRA 登録薬剤師で、地方/遠隔地と都市の薬剤師として 8 年間の経験があります。
+
+
+Hi there, I'm Sasha👋
+=====================
+
+- AWS & GCP certified Cloud Solutions Architect and Registered Pharmacist      ( AHPRA - Australia )
+
+  - built out ReactJS and ReactNative apps, mostly frontend, some full-stack apps
+  - experimented with blockchain smart-contracts and startups
+  - certified GCP Machine Learning Engineer, GCP Security Engineer and eyeing Azure
+  
+
+Let's connect
+-------------
+
+
+[![LinkedIn](https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465) ](https://www.linkedin.com/in/sasha-taylor-200268346/)![Portfolio](https://camo.githubusercontent.com/2a9fb414a87d6b16d58a1adea460b5e5f5befe30f1dc21c23c28674cfeb89759/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d6368726f6d65266c6f676f436f6c6f723d7768697465)(https://topcoder.jp/)
 
 
 
 
+Recent Projects
+------------------
 
-- 👋 Hi, I’m @TopCoderJP a AWS & GCP certified Cloud Solutions Architect
-- 🌱 Im based in Japan and have certifications in GCP as a Machine Learning Engineer, Security Engineer and Cloud Engineer
-- 👀 I've built out several ReactNative and ReactJS apps, mostly frontend and some with backend
-- 💞️ I’m looking to collaborate on Machine Learning/ AI Projects in AWS and GCP, maybe Azure in the future 
-- ⚡ Fun fact:   I am an Australian AHPRA registered Pharmacist with 8 years of experience in rural/remote and city-center work. 
-[![AWS]
+### [Full Stack PWA Application](https://github.com/TopCoderJP/Threads-Application-PWA-React-MongoDB-Next.js-13-TailwindCSS-Full-Stack)
+
+
+
+
+Tech 
+-------------------------
+
+[![AWS](https://camo.githubusercontent.com/ed142852f9672b9a22ef25a18af69685709426dea53f7e5f7c9b3c5343c16e6f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/ed142852f9672b9a22ef25a18af69685709426dea53f7e5f7c9b3c5343c16e6f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465) 
+(https://camo.githubusercontent.com/7b3b6a414b800e08f9deaaab42dd8cb031324f32021d945af1312bce15c0940e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465) [![GCP](https://camo.githubusercontent.com/8d4b3332bac97bbd8877c2cb32bea2d1fbc0cd16ee24a6e8929acbd8d706f7e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4743502d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/8d4b3332bac97bbd8877c2cb32bea2d1fbc0cd16ee24a6e8929acbd8d706f7e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4743502d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465)
 <!---
 TopCoderJP/TopCoderJP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
