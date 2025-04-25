@@ -27,6 +27,7 @@ Let's connect
 Recent Projects
 ------------------
 
+### [AWS Infrastructre as Code](https://github.com/TopCoderJP/AWS-CloudFormation-IaC-Templates)
 ### [Frontend](https://github.com/TopCoderJP/Zambezi)
 ### [NFT - Cardgame](https://github.com/TopCoderJP/nft_card-game)
 ### [Full Stack PWA Application](https://github.com/TopCoderJP/Threads-Application-PWA-React-MongoDB-Next.js-13-TailwindCSS-Full-Stack)
