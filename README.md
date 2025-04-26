@@ -5,9 +5,9 @@ Hi there, I'm Sasha👋
 
 - AWS & GCP certified Cloud Solutions Architect and Registered Pharmacist      ( AHPRA - Australia ).  More context:
 
-  - built out ReactJS and ReactNative apps, mostly frontend, some full-stack apps
-  - experimented with blockchain smart-contracts and startups
-  - certified GCP Machine Learning Engineer, GCP Security Engineer and eyeing Azure
+  - ReactJS and ReactNative apps, mostly frontend, some full-stack apps
+  - experimented with blockchain smart-contracts for startups
+  - certified GCP Machine Learning Engineer, GCP Security Engineer and looking to Azure
 
 
 
