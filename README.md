@@ -13,7 +13,7 @@ Hi there, I'm Sasha👋
 
 ### [Certifications -PDF](https://github.com/TopCoderJP/PDF-/blob/main/Academic%20Transcript.pdf)   
 ### [資格 -PDF](https://github.com/TopCoderJP/PDF-/blob/main/Sasha%20Taylor%20-%20JP%20-%20Academic%20Transcript%20Jan%202025.pdf)
-### [Pharmacist Reg](https://github.com/TopCoderJP/PDF-/blob/main/AHPRA%20APC%202025%20Mr%20Sasha%20Yuri%20Taylor.pdf)
+### [Pharmacist -PDF](https://github.com/TopCoderJP/PDF-/blob/main/AHPRA%20APC%202025%20Mr%20Sasha%20Yuri%20Taylor.pdf)
   
 
 Let's connect
