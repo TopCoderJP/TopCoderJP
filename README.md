@@ -17,8 +17,6 @@ Certifications
 [![AWS Certified Cloud Solutions Architect](https://github.com/TopCoderJP/TopCoderJP/blob/main/aws.png)](https://www.credly.com/badges/a2d07df4-22e9-4bd3-855f-f9e682275741) [![GCP Certified Cloud Architect](https://github.com/TopCoderJP/TopCoderJP/blob/main/gcparchitect.png)](https://www.credly.com/badges/261f2875-1807-4df9-8987-2110f38ae55f) [![GCP Certified ML Engineer](https://github.com/TopCoderJP/TopCoderJP/blob/main/gcpml.png)](https://www.credly.com/badges/de81ca82-c1c4-46fd-8da6-0922577bf1d1) [![GCP Certified Security Engineer](https://github.com/TopCoderJP/TopCoderJP/blob/main/gcpsecurity.png)](https://www.credly.com/badges/b6de584a-7a11-48c0-a897-fadf5bb029bb) [![GCP Certified Cloud Engineer](https://github.com/TopCoderJP/TopCoderJP/blob/main/gcpengineer.png)](https://www.credly.com/badges/b1fa0e5c-629d-4412-a9a3-1503798a6954)
 
 
-
-
 ### [Certifications -PDF](https://github.com/TopCoderJP/PDF-/blob/main/Academic%20Transcript.pdf)   
 ### [資格 -PDF](https://github.com/TopCoderJP/PDF-/blob/main/Sasha%20Taylor%20-%20JP%20-%20Academic%20Transcript%20Jan%202025.pdf)
 ### [Pharmacist -PDF](https://github.com/TopCoderJP/PDF-/blob/main/AHPRA%20APC%202025%20Mr%20Sasha%20Yuri%20Taylor.pdf)
