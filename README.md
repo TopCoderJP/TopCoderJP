@@ -35,6 +35,7 @@ Recent Projects
 
 ### [AWS - Infrastructure as Code](https://github.com/TopCoderJP/AWS-CloudFormation-IaC-Templates)
 ### [AWS - Terraform - Next.JS](https://github.com/TopCoderJP/AWS-Terraform-Next.JS-Project)
+### [AWS - Lambda - CI/CD - GitHub Actions](https://github.com/TopCoderJP/AWS-Lambda-CI-CD)
 ### [Zambezi - Frontend](https://github.com/TopCoderJP/Zambezi)
 ### [NFT - Cardgame](https://github.com/TopCoderJP/nft_card-game)
 ### [Full Stack PWA Application](https://github.com/TopCoderJP/Threads-Application-PWA-React-MongoDB-Next.js-13-TailwindCSS-Full-Stack)
