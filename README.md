@@ -36,6 +36,7 @@ Recent Projects
 
 ### [AWS - Infrastructure as Code](https://github.com/TopCoderJP/AWS-CloudFormation-IaC-Templates)
 ### [AWS - CDK - Automation with Typescript](https://github.com/TopCoderJP/AWS-CDK-Automation-Typescript)
+### [AWS - Terraform IAM Project](https://github.com/TopCoderJP/AWS-Terraform-IAM-Project)
 ### [AWS - Terraform - Next.JS](https://github.com/TopCoderJP/AWS-Terraform-Next.JS-Project)
 ### [AWS - Lambda - CI/CD - GitHub Actions](https://github.com/TopCoderJP/AWS-Lambda-CI-CD)
 ### [Zambezi - Frontend](https://github.com/TopCoderJP/Zambezi)
