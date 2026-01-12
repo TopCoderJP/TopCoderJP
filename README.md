@@ -20,7 +20,9 @@ Certifications
 
 ### [Certifications -PDF](https://github.com/TopCoderJP/PDF-/blob/main/Academic%20Transcript.pdf)   
 ### [資格 -PDF](https://github.com/TopCoderJP/PDF-/blob/main/Sasha%20Taylor%20-%20JP%20-%20Academic%20Transcript%20Jan%202025.pdf)
-### [Pharmacist -PDF](https://github.com/TopCoderJP/PDF-/blob/main/AHPRA%20APC%202025%20Mr%20Sasha%20Yuri%20Taylor.pdf)
+### [Pharmacist License -PDF]([AHPRA APC 2026 - Certificate of Registration -  Mr Sasha Yuri Taylor.pdf](https://github.com/TopCoderJP/PDF-/blob/main/AHPRA%20APC%202026%20-%20Certificate%20of%20Registration%20-%20%20Mr%20Sasha%20Yuri%20Taylor.pdf)
+### [Vaccination Certification -PDF](https://github.com/TopCoderJP/PDF-/blob/main/ACP_Immunisation%20Certificate_Sasha%20Yuri%20Taylor.pdf)
+
   
 
 Let's connect
